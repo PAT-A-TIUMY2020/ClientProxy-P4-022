@@ -34,7 +34,8 @@ namespace ClientProxy_P4_022
             double jarak = Math.Sqrt(Math.Pow(selisihX, 2) +
            Math.Pow(selisihY, 2));
             Console.WriteLine("Hasil Koordinat " + jarak);
-            Console.ReadLine();
+            Console.ReadLine();
+
         }
     }
 }
